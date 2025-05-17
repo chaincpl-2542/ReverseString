@@ -11,7 +11,7 @@ void main() {
     while (true)
     {
         cout << "----------------------------------------------------" << endl;
-        cout << "Develop by Peeranat Luangaram 6738228" << endl;
+        cout << "Developed by Peeranat Luangaram 6738228" << endl;
         cout << "----------------------------------------------------" << endl;
         cout << "Enter a Text But less than 30 characters: " << endl;
         cin.getline(input, 30);
